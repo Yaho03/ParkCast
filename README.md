@@ -12,7 +12,7 @@ npm install
 npm run dev
 ```
 
-http://localhost:5173/parkcast-demo/ 접속
+http://localhost:5173/ParkCast/ 접속
 
 ## GitHub Pages 배포
 
@@ -20,7 +20,7 @@ http://localhost:5173/parkcast-demo/ 접속
 npm run deploy
 ```
 
-`https://<username>.github.io/parkcast-demo/` 에서 확인
+`https://yaho03.github.io/ParkCast/` 에서 확인
 
 ## 기술 스택
 
